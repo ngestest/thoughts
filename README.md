@@ -1,3 +1,3 @@
 thoughts
 ========
-  Just a repository of thoughts.
+  Just a repository of random thoughts.
