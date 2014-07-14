@@ -5,3 +5,5 @@ thoughts
   Today, thinking about ninjas.
   
   But maybe no ninjas tomorrow.
+
+  It's all a matter of perspective.
