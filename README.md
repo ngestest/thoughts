@@ -7,3 +7,5 @@ thoughts
   But maybe no ninjas tomorrow.
 
   It's all a matter of perspective.
+
+  If you like piña colada...
