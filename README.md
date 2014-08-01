@@ -9,3 +9,5 @@ thoughts
   It's all a matter of perspective.
 
   If you like piña colada...
+
+  Category instances.
